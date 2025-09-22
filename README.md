@@ -6,7 +6,7 @@ Frontend Developer
 
 I was first introduced to web design while studying at DeVry University, and that early exposure sparked my curiosity about building websites.
 
-After pursuing other creative paths, I decided to return to tech and invested in a coding bootcamp to gain modern, hands-on experience in frontend development. Through the program and side projects, I’ve built a strong foundation in HTML, CSS, JavaScript, and React—projects you can view on my GitHub.
+After pursuing other creative paths, I decided to return to tech and gain modern, hands-on experience in frontend development. Through the program and side projects, I’ve built a strong foundation in HTML, CSS, JavaScript, and React—projects you can view on my GitHub.
 
 With a background in fashion design, I bring a creative edge to frontend development and am especially interested in ecommerce opportunities where design and technology meet.
 
